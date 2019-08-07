@@ -332,7 +332,7 @@ cc.Class({
     onKeyUp(event){
         //设置按键抬起后的事件
         switch(event.keyCode){
-            //按下A键
+            /*
             case cc.macro.KEY.a:
               
             break;
@@ -344,7 +344,7 @@ cc.Class({
             break;
             case cc.macro.KEY.s:
               
-            break;
+            break;*/
             case cc.macro.KEY.space:
               settime = 0.2;
               creattime = 0;
